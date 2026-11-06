@@ -11,7 +11,6 @@
 <img src="https://komarev.com/ghpvc/?username=EmmJoy&color=512BD4&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Dhaka%20%26%20Jashore-0d1117?style=for-the-badge&logo=googlemaps&logoColor=9B6DFF" />
 
 <br/><br/>
 
@@ -22,24 +21,46 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 👨‍💻 About Me
+<img src="https://raw.githubusercontent.com/EmmJoy/EmmJoy/main/anim-about.svg" width="100%" alt="About Me"/>
 
-```csharp
-public class Developer
-{
-    public string Name     => "Nimur Islam Joy";
-    public string Role     => "ASP.NET Core Developer";
-    public string Company  => "Founder @ Nexvora Solutions";
-    public string Location => "Dhaka & Jashore, Bangladesh";
+<img src="https://raw.githubusercontent.com/EmmJoy/EmmJoy/main/anim-stack.svg" width="100%" alt="Tech Stack"/>
 
-    public string[] Stack => new[]
-    {
-        "C#", ".NET", "ASP.NET Core", "Web API",
-        "Entity Framework Core", "SQL Server", "Blazor", "Razor"
-    };
+<img src="https://raw.githubusercontent.com/EmmJoy/EmmJoy/main/anim-projects.svg" width="100%" alt="Featured Projects"/>
 
-    public string Mission =>
-        "Building high-performance enterprise platforms and automated systems.";
-}
+<div align="center">
+
+<a href="https://github.com/EmmJoy/DentLab-OS"><img src="https://img.shields.io/badge/DentLab--OS-view_repo-512BD4?style=for-the-badge"/></a>
+<a href="https://github.com/EmmJoy/Warehouse-Management-System"><img src="https://img.shields.io/badge/Warehouse_System-view_repo-512BD4?style=for-the-badge"/></a>
+<a href="https://github.com/EmmJoy/C_Sharp_Project"><img src="https://img.shields.io/badge/C%23_Project-view_repo-512BD4?style=for-the-badge"/></a>
+<a href="https://github.com/EmmJoy/Computer_Graphics_Project"><img src="https://img.shields.io/badge/Graphics-view_repo-512BD4?style=for-the-badge"/></a>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmmJoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9B6DFF&icon_color=7B4DFF&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmJoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9B6DFF&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=EmmJoy&theme=tokyonight&hide_border=true&background=0d1117&ring=7B4DFF&fire=9B6DFF&currStreakLabel=9B6DFF" />
+
+</div>
+
+## 📈 Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmJoy&theme=tokyo-night&bg_color=0d1117&color=9B6DFF&line=7B4DFF&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:7B4DFF,100:00D4FF&height=110&section=footer" width="100%"/>
+
+</div>
