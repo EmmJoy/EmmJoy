@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,12,18,25&height=180&section=header&text=NIMUR%20ISLAM%20JOY&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Founder%20@%20Nexvora%20Solutions&descSize=16&descAlignY=62" width="100%" />
 </p>
 
-<!-- Live Animated Typing Text Effect -->
+<!-- Fixed Live Animated Typing Text Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=50&lines=Building+Scalable+Web+Apps...;Next.js+%7C+TypeScript+%7C+Laravel;Scaling+Nexvora+Solutions;Hardcore+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=45&lines=Building+Scalable+Web+Apps...;Next.js+%7C+TypeScript+%7C+Laravel;Founder+at+Nexvora+Solutions;Hardcore+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
