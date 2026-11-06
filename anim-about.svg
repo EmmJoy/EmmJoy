@@ -1,1 +1,27 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#512BD4"/><stop offset="1" stop-color="#00D4FF"/></linearGradient></defs>
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+.t{fill:#e6edf3}.m{fill:#8b949e}
+@keyframes inL{0%{transform:translateX(-120px);opacity:0}5%{transform:translateX(0);opacity:1}93%{transform:translateX(0);opacity:1}100%{transform:translateX(0);opacity:0}}
+@keyframes inR{0%{transform:translateX(120px);opacity:0}5%{transform:translateX(0);opacity:1}93%{transform:translateX(0);opacity:1}100%{transform:translateX(0);opacity:0}}
+@keyframes grow{0%{transform:scaleX(0);opacity:1}6%{transform:scaleX(1)}93%{transform:scaleX(1);opacity:1}100%{transform:scaleX(1);opacity:0}}
+.L{animation:inL 14s cubic-bezier(.2,.8,.2,1) infinite both}
+.R{animation:inR 14s cubic-bezier(.2,.8,.2,1) infinite both}
+.G{transform-origin:0 0;animation:grow 14s ease-out infinite both}
+.p{fill:#161b22;stroke:#512BD4}
+.k{fill:#e6edf3;font-size:12.5px;text-anchor:middle}
+</style>
+<g class="L"><rect x="14" y="16" width="5" height="30" rx="2.5" fill="url(#g)"/>
+<text x="30" y="38" class="t" font-size="26" font-weight="700">About Me</text>
+<text x="30" y="58" class="m" font-size="13">Who I am &amp; what I build</text></g>
+<rect class="G" x="14" y="70" width="772" height="2" rx="1" fill="url(#g)" opacity=".7"/>
+<g class="L" style="animation-delay:.5s"><text x="30" y="112" class="t" font-size="16">ASP.NET Core developer focused on clean, secure and scalable backends.</text></g>
+<g class="R" style="animation-delay:.75s"><text x="30" y="142" class="m" font-size="14">Founder @ Nexvora Solutions, based in Dhaka &amp; Jashore, Bangladesh.</text></g>
+<g class="L" style="animation-delay:1s"><text x="30" y="172" class="m" font-size="14">Building high-performance enterprise platforms and automated systems.</text></g>
+<g class="R" style="animation-delay:1.4s"><rect class="p" x="30" y="186" width="44" height="28" rx="14"/><text class="k" x="52" y="205">C#</text></g>
+<g class="R" style="animation-delay:1.6s"><rect class="p" x="86" y="186" width="60" height="28" rx="14"/><text class="k" x="116" y="205">.NET</text></g>
+<g class="R" style="animation-delay:1.8s"><rect class="p" x="158" y="186" width="84" height="28" rx="14"/><text class="k" x="200" y="205">Web API</text></g>
+<g class="R" style="animation-delay:2s"><rect class="p" x="254" y="186" width="172" height="28" rx="14"/><text class="k" x="340" y="205">Clean Architecture</text></g>
+</svg>
